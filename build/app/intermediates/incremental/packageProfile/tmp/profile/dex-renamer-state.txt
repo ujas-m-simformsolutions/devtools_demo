@@ -1,0 +1,4 @@
+#Tue Jan 23 19:44:48 IST 2024
+base.0=/Users/ujas/StudioProjects/devtools_demo/build/app/intermediates/dex/profile/mergeDexProfile/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
